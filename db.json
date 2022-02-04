@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "You are me again",
+      "email": "aremy@tested.com",
+      "address": "Vergan once more",
+      "mobile": 8197374939,
+      "service": "Vergan once more"
+    },
+    {
+      "id": 3,
+      "name": "Trytry",
+      "email": "trayagain@tested.com",
+      "address": "Tea Street",
+      "mobile": 315628922,
+      "service": "Tea"
+    },
+    {
+      "id": 4,
+      "name": "Edson",
+      "email": "edzazve@tested.com",
+      "address": "Muffin",
+      "mobile": 78363516,
+      "service": "Muffin"
+    },
+    {
+      "id": 5,
+      "name": "Tesrtt",
+      "email": "uptr@tested.com",
+      "address": "Mango",
+      "mobile": 23456678,
+      "service": "Mango"
+    },
+    {
+      "id": 6,
+      "name": "An other",
+      "email": "anoth@tested.bw",
+      "address": "soup",
+      "mobile": 5774324,
+      "service": "soup"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Tested",
+      "mobile": 782636671,
+      "password": "C0nt0ur!",
+      "email": "testedtried90@gmail.com",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
